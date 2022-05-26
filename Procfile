@@ -1,1 +1,1 @@
-web: bin/gitea web
+web: bin/gitea web -port $PORT
