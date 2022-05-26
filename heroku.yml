@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: bin/gitea web -port $PORT
+  web: gitea web -port $PORT
